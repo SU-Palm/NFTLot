@@ -1,0 +1,32 @@
+todo
+	Pages to create
+		-Create Support
+		-FAQ's
+		-Log In
+		-Log Out
+		-Create Account
+		-About Us
+
+	Features to Implement
+		-Crates for NFT's
+
+	Graphic Design
+		-Creating Model of crate opening. Chest will shine certain color depending on value in it
+		-After opening, NFT will be displayed on user screen
+
+
+Hero.js
+	-Contains Intro Message and title
+	-Provides buttons that go to specific links
+	-Displays video
+
+partials/Logo.js
+	-Will generate the Icon in the header of the webpage
+
+Resources
+
+Making a Treasure Chest [Blender 2.8]
+https://www.youtube.com/watch?v=tppi2STb_hY
+
+Another One
+https://www.youtube.com/watch?v=ICBP-7x7Chc
